@@ -1,0 +1,4 @@
+META-INF/
+META-INF/MANIFEST.MF
+test.class
+test.java
